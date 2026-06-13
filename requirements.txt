@@ -1,0 +1,8 @@
+streamlit==1.32.0
+langchain==0.1.13
+langchain-community==0.0.29
+openai==1.14.0
+sqlparse==0.4.4
+pandas==2.2.1
+python-dotenv==1.0.1
+pytest==8.1.1
