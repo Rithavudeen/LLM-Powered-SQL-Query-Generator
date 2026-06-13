@@ -184,11 +184,7 @@ Results displayed in Streamlit UI
 
 ---
 
-## 🙋 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
 
 ---
 
